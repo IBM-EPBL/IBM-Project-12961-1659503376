@@ -25,6 +25,16 @@ The performance analysis of the car is based on the engine type, no of engine cy
 
 ### Tasks:
 * [Assessments](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments)
+* [Project Objectives](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Project%20objectives)
+* [Project Workflow](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Project%20Workflow)
+* [Pre-Requisites](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Pre-Requisites)
+* [Data Collection](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Data%20Collection)
+* [Data Preprocessing](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Data%20Preprocessing)
+* [Model Building](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Model%20Building)
+* [Application Building](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Application%20building)
+* [Train the Model on IBM](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Train%20the%20model%20on%20IBM)
+
+
 * Product Design and Planning
     - Ideation Phase
         - [x] [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/PNT2022TMID12635%20-%20Literature%20Survey.pdf)
@@ -39,7 +49,20 @@ The performance analysis of the car is based on the engine type, no of engine cy
         - [x] [Dataflow Diagrams and User Stories](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/PNT2022TMID12635%20-%20DataFlow%20Diagram%20And%20User%20Stories.pdf)
         - [x] [Solution Requirements](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/PNT2022TMID12635-%20Solution_Requirements.pdf)
         - [x] [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/PNT2022TMID12635-Technology%20Architecture.pdf)
-
     - Project Planning Phase
         - [x] [Project planning](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Project%20planning.pdf)
+
+* Project Development Phase
+    - [x] [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Project%20Development%20Phase/Sprint%201)
+    - [x] [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Project%20Development%20Phase/Sprint%202)
+    - [x] [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Project%20Development%20Phase/Sprint%203)
+    - [x] [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Project%20Development%20Phase/Sprint%204)
+
+* Final Deliverables
+    - [x] [Code - IBM Cloud](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Final%20Deliverables/Code-IBM%20cloud)
+    - [x] [Code - Website](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Final%20Deliverables/Code-Website)
+    - [x] [Dataset](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Final%20Deliverables/Dataset)
+    - [] [Report]()
+    - [] [Demo video]()
+
 
