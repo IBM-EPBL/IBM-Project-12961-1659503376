@@ -11,7 +11,7 @@ Machine Learning based Vehicle Performance Analyzer
 |ADITYA SRIRAM      |  718019Z304     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/Aditya%20Sriram)   |
 |BHARATH S          |  718019Z308     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/BHARATH%20S)   | 
 |K SANDEEP KUMAR    |  718019Z323     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/K%20Sandeep%20Kumar%20-%20Team%20Lead)   |
-|SURTIK S           |  718019Z351     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/SURTIK%20S)   |
+|SURTIK S           |  718019Z351     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/Surtik%20S)   |
 
 
 ### Project Desciption:
