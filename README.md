@@ -68,7 +68,7 @@ The performance analysis of the car is based on the engine type, no of engine cy
     - [x] [Code - IBM Cloud](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Final%20Deliverables/Code-IBM%20cloud)
     - [x] [Code - Website](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Final%20Deliverables/Code-Website)
     - [x] [Dataset](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Final%20Deliverables/Dataset)
-    - [] [Report]()
-    - [] [Demo video]()
+    - [x] [Report](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Final%20Deliverables/Report.pdf)
+    - [x] [Demo video](https://drive.google.com/file/d/19J2ayAAJ2NK8y7usgcY3C5yPUZN9U48d/view?usp=share_link)
 
 
