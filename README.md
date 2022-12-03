@@ -70,6 +70,6 @@ The performance analysis of the car is based on the engine type, no of engine cy
     - [x] [Dataset](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Final%20Deliverables/Dataset)
     - [x] [Report](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Final%20Deliverables/Report.pdf)
     - [x] [Demo video](https://drive.google.com/file/d/19J2ayAAJ2NK8y7usgcY3C5yPUZN9U48d/view?usp=share_link)
-    - [x] [Deployed Website](https://vehicle-performance-analyzer.herokuapp.com)
+    - [x] [Deployed Website](vehicleperformanceanalyzer.pythonanywhere.com)
 
 
